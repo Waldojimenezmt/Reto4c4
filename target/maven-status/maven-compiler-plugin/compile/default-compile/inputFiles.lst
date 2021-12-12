@@ -1,0 +1,16 @@
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/model/User.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/controller/OrderController.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/UserRepository.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/model/Order.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/controller/SupplementsController.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/Reto3Jeremy1Application.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/Interface/OrderInterface.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/controller/UserController.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/SupplementsRepository.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/OrderRepository.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/service/UserService.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/model/Supplements.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/Interface/SupplementsInterface.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/service/SupplementsService.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/repository/Interface/UserInterface.java
+/home/waldo/Reto4C4/Reto3Jeremy1-master/src/main/java/com/example/Reto3Jeremy1/service/OrderService.java
